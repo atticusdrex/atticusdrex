@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7BCCC4,100:084081&height=180&section=header" width="100%"/>
-
-</div>
-
-# Atticus Rex
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Atticus%20Rex&fontAlignY=32&textBg=false" width="100%"/>
 
 <br clear="left"/>
 

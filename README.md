@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Atticus%20Rex&fontAlignY=32&textBg=false" width="100%"/>
 
@@ -83,20 +83,8 @@ It provides a set of composable, Pydantic-validated building blocks for:
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
 
-<br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=atticusdrex&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7BCCC4&icon_color=7BCCC4&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atticusdrex&layout=compact&hide_border=true&bg_color=0D1117&title_color=7BCCC4&text_color=c9d1d9" />
-
-</div>
-
-<br/>
 
 <div align="center">
 
